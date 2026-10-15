@@ -1,0 +1,8 @@
+{
+  "name": "zombie-tower-relay",
+  "version": "1.0.0",
+  "private": true,
+  "main": "room_server.js",
+  "scripts": { "start": "node room_server.js" },
+  "engines": { "node": ">=18" }
+}
